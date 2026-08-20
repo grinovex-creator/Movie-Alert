@@ -1,21 +1,21 @@
 {
   "targets": [
    {
-    "detector": "venue_date",
-    "movie": "The Paradise",
-    "requested_date": "20260924",
-    "venue_code": "ALUC",
-    "venue_label": "ALLU Cinemas: Kokapet",
-    "url_template": "https://in.bookmyshow.com/movies/hyderabad/the-paradise/buytickets/ET00436621/{date}"
-    }
-    {
+     "detector": "venue_date",
+     "movie": "The Paradise",
+     "requested_date": "20260924",
+     "venue_code": "ALUC",
+     "venue_label": "ALLU Cinemas: Kokapet",
+     "url_template": "https://in.bookmyshow.com/movies/hyderabad/the-paradise/buytickets/ET00436621/{date}"
+   }
+   {
       "detector": "venue_date",
       "movie": "Toxic",
       "requested_date": "20260826",
       "venue_code": "ALUC",
       "venue_label": "ALLU Cinemas: Kokapet",
       "url_template": "https://in.bookmyshow.com/movies/hyderabad/toxic-a-fairy-tale-for-grownups/buytickets/ET00378770/{date}"
-    },
+    }
     {
       "detector": "venue_date",
       "movie": "Toxic",
@@ -24,6 +24,6 @@
       "venue_label": "INOX: GSM Mall, Hyderabad",
       "url_template": "https://in.bookmyshow.com/movies/hyderabad/toxic-a-fairy-tale-for-grownups/buytickets/ET00378770/{date}"
     }
-  ]
+    ]
 }
   
