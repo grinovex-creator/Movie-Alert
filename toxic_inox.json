@@ -1,0 +1,8 @@
+{
+  "detector": "venue_date",
+  "movie": "Toxic",
+  "requested_date": "20260826",
+  "venue_code": "IGMH",
+  "venue_label": "INOX: GSM Mall, Hyderabad",
+  "url_template": "https://in.bookmyshow.com/movies/hyderabad/toxic-a-fairy-tale-for-grownups/buytickets/ET00378770/{date}"
+}
